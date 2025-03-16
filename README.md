@@ -26,6 +26,4 @@ Email: tururizki20@gmail.com
 git clone https://github.com/rizzkyofc/Base-Bot-Whatsapp.
 
 ### **2. Install Dependencies**
-Pastikan Sudah Menginstall Nodejs
-```Sh
 npm install

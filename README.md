@@ -23,8 +23,8 @@ Email: tururizki20@gmail.com
 
 ### **Git Clone Repository**
 ```Sh
-git clone https://github.com/rizzkyofc/Base-Bot-Whatsapp.
-cd Base_Bot-Whatsapp.
+git clone https://github.com/rizzkyofc/Base-Bott-Whatsapp
+cd Base-Bott-Whatsapp
 ```
 
 ### **Install Dependencies**

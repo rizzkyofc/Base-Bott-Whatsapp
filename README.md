@@ -20,5 +20,16 @@ Email: tururizki20@gmail.com
 
 
 ## Cara Install & Menjalankan 
+
+### **Git Clone Repository**
 ```Sh
-s
+git clone https://github.com/rizzkyofc/Base-Bot-Whatsapp.
+cd Base_Bot-Whatsapp.
+```
+
+### **Install Dependencies**
+```Sh
+npm install
+yarn install
+```
+

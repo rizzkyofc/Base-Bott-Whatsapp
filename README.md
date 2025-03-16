@@ -33,3 +33,10 @@ npm install
 yarn install
 ```
 
+### **Menjalankan Bot**
+```Sh
+npm start
+```
+
+
+

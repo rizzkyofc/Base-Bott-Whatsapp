@@ -17,3 +17,7 @@ Copas, Record, ReUpload? Add Credit Ya.
 
 Jika Mengalami Error Hubungi Saya Melalui:
 Email: tururizki20@gmail.com
+
+**Cara Install & Menjalankan**
+
+#1. 

@@ -48,7 +48,7 @@ async function startBot() {
     });
     if (usePairingCode && !sock.authState.creds.registered) {
         const phoneNumber = await question('Please Enter Your Number:\n');
-        const code = await sock.requestPairingCode(phoneNumber.trim());
+        const code = await sock.requestPairingCode(phoneNumber, `${global.code}`);
         console.log(chalk.red(`Your Pairing Code: ${code}`));
     };
     store.bind(sock.ev);
@@ -176,3 +176,4 @@ fs.watchFile(file, () => {
     delete require.cache[file]
     require(file)
 })
+

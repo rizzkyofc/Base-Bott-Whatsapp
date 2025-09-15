@@ -10,7 +10,7 @@ Thanks To:
 - Muhammad Saw
 - All Friends
 - Penyedia Api
-- Penyedia Module (FizzxyOfc)
+- Penyedia Module
 
 Dilarang Keras Menjual Base Ini.
 Copas, Record, ReUpload? Add Credit Ya.
@@ -37,6 +37,7 @@ yarn install
 ```Sh
 npm start
 ```
+
 
 
 

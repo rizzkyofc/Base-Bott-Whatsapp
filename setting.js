@@ -1,5 +1,8 @@
 const fs = require("fs");
 
+// === [ SYSTEM ] === \\
+global.code = "RIZZCODE"
+
 // === [ Session ] === \\
 global.session = 'session'
 
@@ -25,4 +28,5 @@ fs.watchFile(file, () => {
     console.log(`Update ${__filename}`)
     delete require.cache[file]
     require(file)
+
 })
